@@ -1,0 +1,21 @@
+/* Preface */
+#section-content .zone-wrapper #zone-preface .region-inner {
+  padding: 20px;
+}
+#zone-preface .block .content {
+  color: black;
+  background-color: #f3f3f3;
+  border: thin solid silver;
+  width: 100%;
+  height: inherit;
+	text-align: justify;
+	min-height: 320px;
+	padding: 10px;
+}
+#zone-preface .block .content strong {
+  color: #414141;
+}
+/* Hide on interior pages */
+.not-front #zone-preface-wrapper {
+  display: none;
+}

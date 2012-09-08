@@ -1,0 +1,31 @@
+/* @override 
+	http://shs.loc/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?m67bl9
+	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?m9n20l
+	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?m9y5hi
+*/
+
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+
+#logo {
+	width: 480px;
+}
+
+/* Search Form */
+#block-search-form {
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 35px;
+  width: 300px;
+  z-index: 1;
+}
+
+div.container-12 img {
+	float: left;
+	margin-right: auto;
+	margin-left: auto;
+	margin: 3%;
+	border: thick solid white;
+	width: 40%;
+	height: auto;
+}

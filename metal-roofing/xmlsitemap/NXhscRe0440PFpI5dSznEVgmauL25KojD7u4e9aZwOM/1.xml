@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://roofintel.loc/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<<<<<<< HEAD
+<url><loc>http://roofintel.loc/content/front-page-long-scroll</loc><lastmod>2012-09-06T20:36Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://roofintel.loc/contact</loc><lastmod>2012-09-07T19:40Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://roofintel.loc/terms-conditions</loc><lastmod>2012-09-07T19:34Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://roofintel.loc/privacy-policy</loc><lastmod>2012-09-07T19:38Z</lastmod><changefreq>daily</changefreq></url>
+=======
+<url><loc>http://roofintel.loc/content/front-page-long-scroll</loc><lastmod>2012-09-06T20:36Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://roofintel.loc/content/contact-us</loc><lastmod>2012-07-26T16:51Z</lastmod><changefreq>monthly</changefreq></url>
+>>>>>>> b98b364525320534ce0b1701907029373cb35ec6
+<url><loc>http://roofintel.loc/thank-you</loc><lastmod>2012-07-26T16:54Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://roofintel.loc/content/all-access-pass</loc><lastmod>2012-08-31T18:22Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://roofintel.loc/content/dvd-installing-metal-roofing</loc><lastmod>2012-08-31T18:24Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://roofintel.loc/content/membership-plus</loc><lastmod>2012-08-31T18:25Z</lastmod><changefreq>weekly</changefreq></url>
+</urlset>

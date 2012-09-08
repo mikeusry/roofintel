@@ -1,0 +1,403 @@
+/* @override 
+	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?m9n20l
+	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?m9y5hi
+<<<<<<< HEAD
+	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?ma1fgb
+=======
+>>>>>>> b98b364525320534ce0b1701907029373cb35ec6
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+p {
+	
+}
+
+span.quote {
+	font: 2.25em/1em "Source Sans Pro", Cursive;
+	color: black;
+}
+
+div.testimonial-body p {
+	color: #600004;
+	display: inline;
+	font-size: 2em;
+	line-height: 1em;
+}
+
+div.field-content.testimonial-name {
+	color: black;
+	font-size: 2em;
+	float: right;
+	font-style: italic;
+}
+
+#block-views-testimonials-block {
+	background-color: #f8f2d7;
+	padding: 20px;
+}
+
+div.lesson-title-low {
+	color: black;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+<<<<<<< HEAD
+
+#block-block-11 {
+	padding: 20px;
+	background-color: red;
+}
+#block-block-11 p {
+	color: white;
+}
+
+#block-block-11 p a {
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* @group Buy Page */
+
+article#node-product-display-6.node.node-product-display.node-published.node-not-promoted.node-not-sticky.author-mike-usry.odd.clearfix {
+	
+}
+
+div.view-id-store_front .node-product-display {
+	padding: 20px;
+	border: thin solid silver;
+	margin-bottom: 20px;
+}
+
+
+
+/* @end */
+
+=======
+>>>>>>> b98b364525320534ce0b1701907029373cb35ec6
+/* @group Video "Grid" */
+
+#block-views-video-thumbnails-block div.views-row div.views-field-field-video-thumbnail {
+	text-align: center;
+}
+
+#block-views-video-thumbnails-block div.views-row div.views-field.views-field-title {
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 1.5em;
+	line-height: 1.3em;
+}
+
+#block-views-video-thumbnails-block div.views-row div.views-field.views-field-field-lesson-number {
+	text-align: center;
+}
+
+
+#block-views-video-thumbnails-block div.views-row {
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+/* @end */
+
+/* This file will hold the main styles for your website. */
+body {background-color: #8a2428;}
+
+/* @group User Zone */
+
+#zone-user {
+	background-color: white;
+	text-align: center;
+	-moz-box-shadow: 0px 0px 10px #000000;
+-webkit-box-shadow: 0px 0px 10px #000000;
+box-shadow: 0px 0px 10px #000000;
+}
+
+
+/* @end */
+
+
+/* Links */
+a, a:link {
+  text-decoration: none;
+}
+a, a:link, a:visited, a:active {
+  color: #AD3B43;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Headers */
+body > #page h1, body > #page h2, body > #page h3,
+body > #page h4, body > #page h5, body > #page h6 {
+  border-color: #D4D4D4;
+  color: #424242;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body > #page h1#page-title {
+  color: #191F53;
+}
+
+/* Admin Menu */
+#admin-menu {
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -khtml-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* Drupal */
+#messages .messages {
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* Page */
+#page {
+  position: relative;
+}
+
+/* Blocks */
+.block .content {
+  color: #424242;
+}
+.block .content li {
+  margin-left: 2em;
+}
+.block .content .item-list li {
+  margin: 0;
+}
+
+
+
+/* Sidebar */
+#region-sidebar-first div.block-title,
+#region-sidebar-second div.block-title {
+}
+#region-sidebar-first .block:first-child div.block-title {
+  margin-top: 0;
+}
+
+.boxes-box-controls ul {
+  margin: 0;
+}
+
+/* Content */
+
+ul.tabs {
+  *padding-top: 1px;
+}
+
+div.image-left a img, div.left img {
+	float: left;
+	margin-right: 1%;
+	margin-bottom: 1%;
+}
+
+img.left {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+#block-block-2 div.content div div {
+	color: white;
+}
+
+div.container-12 img {
+	margin-right: auto;
+	margin-left: auto;
+	margin: 20px;
+	width: 90%;
+	height: auto;
+}
+
+#block-menu-menu-footer ul.menu li{
+	list-style-type: none;
+	list-style-image: none;
+	display: inline;
+	font-size: 1.25em;
+	text-decoration: underline;
+}
+
+#block-menu-menu-footer div.content ul.menu {
+	text-align: center;
+}
+
+/* @group Quicktabs */
+
+#quicktabs-_none_ div.item-list ul.quicktabs-tabs.quicktabs-style-nostyle li.active {
+	font-weight: bold;
+}
+
+#quicktabs-_none_ div.item-list ul.quicktabs-tabs.quicktabs-style-nostyle li {
+	  background: rgb(242,237,237); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIzMiUiIHN0b3AtY29sb3I9IiNmMmVkZWQiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI5OSUiIHN0b3AtY29sb3I9IiNkM2NmZDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  rgba(242,237,237,1) 32%, rgba(211,207,208,1) 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(32%,rgba(242,237,237,1)), color-stop(99%,rgba(211,207,208,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(242,237,237,1) 32%,rgba(211,207,208,1) 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(242,237,237,1) 32%,rgba(211,207,208,1) 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(242,237,237,1) 32%,rgba(211,207,208,1) 99%); /* IE10+ */
+background: linear-gradient(top,  rgba(242,237,237,1) 32%,rgba(211,207,208,1) 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2eded', endColorstr='#d3cfd0',GradientType=0 );
+
+}
+
+
+ul.quicktabs-tabs li {
+  display: inline;
+  background: none;
+  list-style-type: none;
+  padding: 1%;
+  white-space: nowrap;
+	border-top: thin solid #CACCCB;
+	border-right: thin solid #CACCCB;
+}
+
+ul.quicktabs-tabs li a {
+	color: #253690;
+}
+
+
+/* @end */
+
+#region-menu nav.navigation ul.menu li.leaf {
+  float: left;
+  display: block;
+}
+
+/* @group Front Page */
+
+#page h1.front {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 5em;
+	margin-bottom: 0;
+	text-shadow: black 2px 2px 2px;
+}
+
+div#block-block-7.block.block-block {
+	font: 5em 'Source Sans Pro', sans-serif;
+}
+
+div.head-copy {
+	color: black;
+	font-size: 2.5em;
+}
+
+div.head-cta {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+div.preview {
+	color: gray;
+	text-align: center;
+	font: italic bold 4em "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+  border: none;
+  height: 1px;
+  background: #eaeaea;
+}
+
+#block-block-4 {
+	text-align: center;
+}
+
+div.lesson-title {
+	text-align: center;
+	font-weight: bold;
+	color: #600004;
+	line-height: 2em;
+	font-size: 2.5em;
+}
+
+img.center {
+	
+}
+
+div.buy-now {
+	text-align: center;
+}
+
+img.right {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+div.wistia {
+	float: right;
+	margin: 20px;
+}
+
+#block-block-4 div.content div.wistia img {
+	float: right;
+}
+
+div.watch {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+}
+
+
+div.lesson {
+	clear: both;
+	min-height: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+img.front-left {
+	float: left; margin-right: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+img.front-right {
+	float: right;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border-style: solid;
+}
+
+div.lesson-title a {
+	color: #e30215;
+	font-size: 2.0em;
+}
+
+div.lesson-number {
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+
+
+/* @end */
+
+
