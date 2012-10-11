@@ -11,7 +11,6 @@ function commerce_product_type_features_export($data, &$export, $module_name = '
   $export['dependencies']['commerce_features'] = 'commerce_features';
   $export['dependencies']['commerce_product_ui'] = 'commerce_product_ui';
 
-  $info = commerce_product_ui_commerce_product_type_info();
   foreach ($data as $type) {
     $export['features']['commerce_product_type'][$type] = $type;
 

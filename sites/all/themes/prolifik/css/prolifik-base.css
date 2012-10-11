@@ -1,15 +1,29 @@
 /* @override 
 	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?m9n20l
 	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?m9y5hi
-<<<<<<< HEAD
+	HEAD
 	http://roofintel.loc/sites/all/themes/prolifik/css/prolifik-base.css?ma1fgb
-=======
->>>>>>> b98b364525320534ce0b1701907029373cb35ec6
+	=======
+	b98b364525320534ce0b1701907029373cb35ec6
+	http://ri.georgiacommercialroofing.com/sites/all/themes/prolifik/css/prolifik-base.css?ma1mus
+	http://ri.georgiacommercialroofing.com/sites/all/themes/prolifik/css/prolifik-base.css?ma6kdl
 */
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+#block-block-4 img {float: right;
+margin-left: 10px;margin-bottom: 10px;}
+
 p {
-	
+	font-size: 1.25em;
+}
+
+#block-block-12 div.content p {
+	font-size: 1.25em;
+}
+
+#block-block-12 {
+	min-height: 250px;
 }
 
 span.quote {
@@ -22,6 +36,11 @@ div.testimonial-body p {
 	display: inline;
 	font-size: 2em;
 	line-height: 1em;
+}
+
+#block-views-video-thumbnails-block  div.view-header p {text-align: center;
+	margin-top: 30px;
+	margin-bottom: 0;
 }
 
 div.field-content.testimonial-name {
@@ -210,8 +229,8 @@ div.image-left a img, div.left img {
 
 img.left {
 	float: left;
-	margin-right: 5px;
-	margin-bottom: 5px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 
 #block-block-2 div.content div div {
@@ -332,9 +351,6 @@ div.lesson-title {
 	font-size: 2.5em;
 }
 
-img.center {
-	
-}
 
 div.buy-now {
 	text-align: center;
