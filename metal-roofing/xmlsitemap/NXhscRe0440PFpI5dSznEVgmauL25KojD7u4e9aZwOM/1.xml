@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://ri.georgiacommercialroofing.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://ri.georgiacommercialroofing.com/content/front-page-long-scroll</loc><lastmod>2012-09-11T10:12Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/contact</loc><lastmod>2012-09-11T10:40Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/terms-conditions</loc><lastmod>2012-09-07T19:34Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/privacy-policy</loc><lastmod>2012-09-07T19:38Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/thank-you</loc><lastmod>2012-07-26T16:54Z</lastmod><changefreq>monthly</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/content/all-access-pass</loc><lastmod>2012-09-11T10:25Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/content/dvd-installing-metal-roofing</loc><lastmod>2012-09-11T10:24Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/content/membership-plus</loc><lastmod>2012-09-11T10:24Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://ri.georgiacommercialroofing.com/installing-valley-flashing</loc><lastmod>2012-09-08T14:58Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.roofingintelligence.com/install-metal-roofing</loc><lastmod>2012-11-06T11:51Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/applying-wood-strips</loc><lastmod>2012-10-16T16:23Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/installing-metal-panels</loc><lastmod>2012-10-16T16:24Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/hip-roof-sections</loc><lastmod>2012-10-16T16:26Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/edge-flashing-details</loc><lastmod>2012-10-16T16:26Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/pipe-flashings</loc><lastmod>2012-10-16T16:27Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/roofing-transition-areas</loc><lastmod>2012-10-16T16:28Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/sidewall-flashings</loc><lastmod>2012-10-16T16:29Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/chimney-flashings</loc><lastmod>2012-10-17T10:32Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/ridge-caps</loc><lastmod>2012-10-16T16:34Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/common-roofing-mistakes</loc><lastmod>2012-10-16T16:32Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/contact</loc><lastmod>2012-10-11T13:47Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/roofing-tools</loc><lastmod>2012-10-16T16:20Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/terms-conditions</loc><lastmod>2012-09-07T19:34Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/privacy-policy</loc><lastmod>2012-09-07T19:38Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/thank-you</loc><lastmod>2012-10-24T19:21Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/content/all-access-pass</loc><lastmod>2012-09-11T10:25Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/content/dvd-installing-metal-roofing</loc><lastmod>2012-09-11T10:24Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/content/membership-plus</loc><lastmod>2012-09-11T10:24Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/introduction-metal-roofing</loc><lastmod>2012-10-16T11:12Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/installing-valley-flashing</loc><lastmod>2012-09-08T14:58Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://www.roofingintelligence.com/ordering-roofing-materials</loc><lastmod>2012-10-16T13:10Z</lastmod><changefreq>monthly</changefreq></url>
 </urlset>

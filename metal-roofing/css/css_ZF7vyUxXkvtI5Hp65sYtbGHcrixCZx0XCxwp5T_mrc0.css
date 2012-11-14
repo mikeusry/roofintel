@@ -1,0 +1,9 @@
+@media all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape){<<<<<<< HEAD
+=======
+
+
+>>>>>>> b98b364525320534ce0b1701907029373cb35ec6
+
+
+#logo{width:480px;}#block-search-form{margin:0;position:absolute;right:0;text-align:right;top:25px;width:300px;z-index:1;}div.container-12 img{float:left;margin:2%;border:thick solid white;width:40%;height:auto;}#block-views-video-thumbnails-block div.views-row div.views-field-field-video-thumbnail img{height:auto;width:90%;}#block-views-video-thumbnails-block div.views-row div.views-field.views-field-title{text-align:center;color:black;font-weight:bold;font-size:1.5em;line-height:1.3em;}#block-views-video-thumbnails-block div.views-row div.views-field.views-field-field-lesson-number{text-align:center;}#block-views-video-thumbnails-block div.views-row.views-row-odd{width:50%;float:left;clear:left;}#block-views-video-thumbnails-block div.views-row-even{width:50%;float:left;}
+}
